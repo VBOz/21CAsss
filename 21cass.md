@@ -1,7 +1,7 @@
 ## The 21st Century Academic: Smart, Savvy and Social
 Created by [Dr Virginia Barbour](https://twitter.com/ginnybarbour) [(AOASG)](https://twitter.com/openaccess_anz) and [Natasha Simons](https://twitter.com/n_simons) [(ANDS)](http://www.ands.org.au/) with input from [QUT library](https://www.library.qut.edu.au/) staff and [Creative Commons Australia](http://creativecommons.org.au/).
  
-This workshop was delivered on Wednesday 8 February 2017 as part of the 2017 [Brisbane Research Bazaar](https://2017.resbaz.com/brisbane),  at the Centre for Digital Scholarship, [UQ Library](https://www.library.uq.edu.au/), [The University of Queensland](https://www.uq.edu.au/).
+This workshop will be delivered on Friday June 8 as part of the 2018 [Brisbane Research Bazaar](https://resbaz.github.io/resbaz2018/brisbane/),  at the Southbank campus of Griffith University, Brisbane.
  
 ### Required:
 
