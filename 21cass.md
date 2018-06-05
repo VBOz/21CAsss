@@ -123,13 +123,7 @@ Preprints
 - [OSF Preprints](https://osf.io/preprints ) </td>
   <td valign="top">Ginny Barbour  </td>
   </tr>
-  <tr>
-  <td valign="top">4:00 pm </td>
-  <td valign="top">Pitch your research to a journalist: come prepared to pitch your work!  </td>
-  <td valign="top">Sandra Fry  </td>
-  </tr>
-  <tr>
-  <td valign="top">4:20 pm</td>
+    <td valign="top">3:50 pm</td>
     <td valign="top">Summing up/conclusion  </td>
   <td valign="top">Natasha and Ginny  </td>
   </tr>
